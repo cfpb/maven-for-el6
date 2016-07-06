@@ -22,6 +22,7 @@
     export MAVEN_HOME=/usr/local/maven
     export PATH=/usr/local/maven/bin:$PATH
 
+    Or, you can add to you profile.
 
 ### Build the RPM using Vagrant
 
