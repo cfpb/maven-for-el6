@@ -13,6 +13,7 @@ Group:		Development/Build Tools
 License:	Apache Software License
 URL:		https://maven.apache.org/index.html
 Source:		apache-maven-%{version}-bin.tar.gz
+Requires:   java >= 1.7
 
 
 %description	

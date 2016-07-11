@@ -1,4 +1,4 @@
-# maven 3.3.9 RPM built for RHEL 6.5
+# maven 3.3.9 RPM built for RHEL 6.X
 
 **Description**:  
 
